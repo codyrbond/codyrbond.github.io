@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://codyrbond.github.com/"
+      url: "https://github.com/codyrbond"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://codyrbond.github.com/"
+      url: "https://github.com/codyrbond"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
