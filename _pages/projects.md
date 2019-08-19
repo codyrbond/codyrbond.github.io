@@ -2,7 +2,7 @@
 layout: archive
 permalink: /projects/
 title: "Projects"
-author_profile: true
+author-profile: true
 header:
   image:
 ---
