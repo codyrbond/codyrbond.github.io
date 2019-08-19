@@ -2,12 +2,12 @@
 layout: archive
 permalink: /projects/
 title: "Projects"
-author-profile: true
+author_profile: true
 header:
   image:
 ---
 
-{% include base_path %}
+
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
