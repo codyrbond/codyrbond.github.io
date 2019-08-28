@@ -5,4 +5,4 @@ header:
   image:
 ---
 
-![Alt text](/images/resume.docx)
+![Resume]("/images/resume.docx")
