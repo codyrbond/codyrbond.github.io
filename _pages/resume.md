@@ -5,4 +5,4 @@ header:
   image:
 ---
 
-<embed src="/images/Resume.docx" width="800px" height="2100px" />
+<embed src="/images/Resume.pdf" width="800px" height="2100px" />
