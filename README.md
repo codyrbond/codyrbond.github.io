@@ -1,3 +1,2 @@
 # codyrbond.github.io
-Data Science Portfolio
-# Cody Bond
+The following site contains the Data Science projects of an aspiring Data Scientist.
