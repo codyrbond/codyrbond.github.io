@@ -32,6 +32,7 @@
     "build:js": "npm run uglify && npm run add-banner"
   },
   "dependencies": {
-    "glob-parent": "^6.0.0"
+    "glob-parent": "^6.0.0",
+    "set-value": "^4.1.0"
   }
 }
